@@ -1,0 +1,7 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME        :Dante Empire Names
+STR_GRF_DESCRIPTION :Toxic
+STR_STYLES          :Empire

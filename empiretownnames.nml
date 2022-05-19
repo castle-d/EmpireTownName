@@ -683,6 +683,7 @@ town_names(world) {
     text("Mirzapur", 1),
     text("Cali", 1),
     text("Daegu", 1)
+    text("Detroit", 2),
     }
 }
 

@@ -461,6 +461,9 @@ town_names(wow) {
     text("Bael Modan", 1),
     text("Gnomeregan", 1),
     text("Strahnbrad", 1),
+    text("Azeroth", 1),
+    text("Lordaeron", 1),
+    text("The Deadmines", 1)
     }
 }
 town_names(good) {
@@ -734,6 +737,30 @@ town_names(statecap) {
     }
 }
 
+town_names(hots) {
+    {
+    text("Alterac Pass", 1),
+    text("Battlefield of Eternity", 1),
+    text("Blackheart's Bay", 1),
+    text("Braxis Holdout", 1),
+    text("Cursed Hollow", 1),
+    text("Dragon Shire", 1),
+    text("Garden of Terror", 1),
+    text("Hanamura Temple", 1),
+    text("Infernal Shrines", 1),
+    text("Sky Temple", 1),
+    text("Tomb of the Spider Queen", 1),
+    text("Towers of Doom", 1),
+    text("Volskaya Foundry", 1),
+    text("Warhead Junction", 1),
+    text("Haunted Mines", 1),
+    text("Braxis Outpost", 1),
+    text("Industrial District", 1),
+    text("Lost Cavern", 1),
+    text("Silver City", 1)
+    }
+}
+
 town_names {
     styles : string(STR_STYLES);
     {
@@ -745,7 +772,8 @@ town_names {
     town_names(cssiege, 1),
     town_names(starwars, 1),
     town_names(world, 1),
-    town_names(statecap, 1)
+    town_names(statecap, 1),
+    town_names(hots, 1)
     }
 }
 

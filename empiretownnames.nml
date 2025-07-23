@@ -352,6 +352,7 @@ town_names(wow) {
     text("Tempest Keep", 1),
     text("Shattrath", 1),
     text("Auchindoun", 1),
+    text("Area 52", 1),
     text("Black Temple", 1),
     text("Gilneas", 1),
     text("Northshire", 1),
@@ -725,7 +726,7 @@ town_names {
     town_names(starwars, 1),
     town_names(world, 1),
     town_names(statecap, 1),
-    town_names(hots, 1)
+    town_names(hots, 2)
     }
 }
 

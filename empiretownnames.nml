@@ -638,8 +638,8 @@ town_names(world) {
     text("Dubai", 1),
     text("Mirzapur", 1),
     text("Cali", 1),
-    text("Daegu", 1)
-    text("Detroit", 2),
+    text("Daegu", 1),
+    text("Detroit", 2)
     }
 }
 
